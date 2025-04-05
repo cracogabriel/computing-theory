@@ -4,7 +4,7 @@ Esta atividade contém a implementação de autômatos finitos determinísticos 
 
 ## Exercícios
 
-1. **Exercício 01**: AFD que reconhece 𝐿4 = {𝑏𝑎^n * 𝑏𝑎 ∣ 𝑛 ≥ 0}.  
+1. **Exercício 01**: AFD que reconhece 𝐿4 = {𝑏𝑎^n \* 𝑏𝑎 ∣ 𝑛 ≥ 0}.  
    ![Diagrama do AFD](atv-01%20-%20deterministic%20finite%20automata/ex01/ex01.png)
 
 2. **Exercício 02**: AFD que reconhece 𝐿5 = {𝑥 ∈ {𝑎, 𝑏}∗ ∣ |𝑥| mod 3 = 0}.  
@@ -21,3 +21,6 @@ Esta atividade contém a implementação de autômatos finitos determinísticos 
 
 6. **Exercício 06**: AFD que reconhece 𝐿9 = {𝑥 ∈ Σ∗ ∣ 𝑥 mod 5 = 0}.  
    ![Diagrama do AFD](atv-01%20-%20deterministic%20finite%20automata/ex06/ex06.png)
+
+7. **Exercício 07**: (ex. 03) Obter um autômato finito que reconheça a linguagem L = {w ∈ {a, b} ∗ | w contém uma quantidade ímpar de símbolos a e uma quantidade múltipla de 3 de símbolos b}
+   ![Diagrama do AFD](atv-01%20-%20deterministic%20finite%20automata/ex07/ex07.png)
