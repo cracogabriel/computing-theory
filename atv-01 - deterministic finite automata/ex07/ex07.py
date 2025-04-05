@@ -35,7 +35,7 @@ delta = {
 }
 
 q0 = 'q0'
-F = {'q3'}  # ('impar', '0')
+F = {'q3'}  
 
 M = (Q, Sigma, delta, q0, F)
 
