@@ -22,5 +22,18 @@ Esta atividade contém a implementação de autômatos finitos determinísticos 
 6. **Exercício 06**: AFD que reconhece 𝐿9 = {𝑥 ∈ Σ∗ ∣ 𝑥 mod 5 = 0}.  
    ![Diagrama do AFD](atv-01%20-%20deterministic%20finite%20automata/ex06/ex06.png)
 
-7. **Exercício 07**: (ex. 03) Obter um autômato finito que reconheça a linguagem L = {w ∈ {a, b} ∗ | w contém uma quantidade ímpar de símbolos a e uma quantidade múltipla de 3 de símbolos b}
+7. **Exercício 07**: (ex. 03) Obter um autômato finito que reconheça a linguagem L = {w ∈ {a, b} ∗ | w contém uma quantidade ímpar de símbolos a e uma quantidade múltipla de 3 de símbolos b}.  
    ![Diagrama do AFD](atv-01%20-%20deterministic%20finite%20automata/ex07/ex07.png)
+
+# Atividade 02 - Autômatos Finitos Não Determinísticos
+
+Esta atividade contém a resolução de atividades sobre autômatos finitos não determinísticos (AFNDs) para os seguintes exercícios:
+
+1. **Exercício 01**: {𝑥𝑎 ∈ {0, 1}∗ ∣ 𝑎 = 00} (usar apenas três estados).  
+   ![Diagrama do AFND](atv-02%20-%20nondeterministic%20finite%20automata/ex01/ex01.png)
+
+2. **Exercício 02**: 0 ∗1 ∗0 + (usar apenas três estados).  
+   ![Diagrama do AFND](atv-02%20-%20nondeterministic%20finite%20automata/ex02/ex02.png)
+
+3. **Exercício 03**: {𝑥 ∈ {0, 1}∗ ∣ 1011 ou 111 são subpalavras de x}.  
+   ![Diagrama do AFND](atv-02%20-%20nondeterministic%20finite%20automata/ex03/ex03.png)
