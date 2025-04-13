@@ -39,3 +39,21 @@ Esta atividade contém a resolução de atividades sobre autômatos finitos não
 
 3. **Exercício 03**: {𝑥 ∈ {0, 1}∗ ∣ 1011 ou 111 são subpalavras de x}.  
    ![Diagrama do AFND](atv-02%20-%20non-deterministic%20finite%20automata/ex03/ex03.png)
+
+# Atividade 03 - Equivalencia de
+
+Esta atividade contém a resolução de atividades sobre construção de Autômatos Finitos Determinísticos Equivalentes:
+
+## Exercícios
+
+1. **Exercício 01**  
+   ![Diagrama](atv-03%20-%20equivalence/ex01/test-ex01.png)
+
+2. **Exercício 02**  
+   ![Diagrama](atv-03%20-%20equivalence/ex02/test-ex02.png)
+
+3. **Exercício 03**  
+   ![Diagrama](atv-03%20-%20equivalence/ex03/test-ex03.png)
+
+4. **Exercício 04**  
+   ![Diagrama](atv-03%20-%20equivalence/ex04/test-ex04.png)
