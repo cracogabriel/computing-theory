@@ -1,0 +1,6 @@
+A -> Sa|Bb
+S -> Aa|Cb
+B -> Eb|Da|eps
+C -> Db|Eb|eps
+D -> Eb|Da|eps
+E -> -
