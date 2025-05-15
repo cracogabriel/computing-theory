@@ -1,0 +1,5 @@
+
+A -> Bb
+B -> Bb|Ca|Cb
+C -> Ca|Da|eps
+D -> Da|Db|eps
